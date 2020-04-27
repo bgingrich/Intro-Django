@@ -1,1 +1,1 @@
-web: gunicorn djangotestlambda.wsgi --log-file -
+web: gunicorn Intro.wsgi --log-file -
